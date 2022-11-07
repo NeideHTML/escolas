@@ -1,0 +1,27 @@
+*
+body{
+  background-image: linear-gradient(to bottom,rgb(134, 173, 199),rgb(201, 171, 207),rgb(230, 187, 163),rgb(105, 74, 100),rgb(126, 112, 148));
+  }
+  main{
+  background-color: rgb(231, 206, 176);
+    border-radius: 10px;
+    box-shadow: rgba(130, 50, 146, 0.356);
+    padding:10px;
+    margin: auto;
+    background-image: linear-gradient(to bottom,rgb(134, 173, 199),rgb(201, 171, 207),rgb(230, 187, 163),rgb(105, 74, 100),rgb(126, 112, 148));
+  }
+  
+    h1{
+      color: brown;
+    }
+   
+    h2{
+      background-color: blueviolet; color: black;
+    }
+  
+  p{ color: black;}
+  
+    
+
+    
+    
